@@ -43,5 +43,5 @@ elif user_choice == "bond":
     print(f"\nThe monthly bond repayment amount is: {repayment:.2f}")
 
 else:
-    # Invalid choice
+    # Invalid choice to be printed 
     print("Invalid input. Please enter 'investment' or 'bond'.")
